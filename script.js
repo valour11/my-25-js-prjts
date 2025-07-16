@@ -14,7 +14,7 @@ function changeColors(){
     
     entireBody.style.background = colors[index++];
 
-    // to loop through the array of colors
+    // to loop through the arrayS of colors
     if (index > colors.length - 1){
         index = 0;
     }
