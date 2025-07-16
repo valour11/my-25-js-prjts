@@ -1,0 +1,23 @@
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#click-btn{
+    outline: none;
+    border: none;
+    background: plum;
+    padding: 10px;
+    border-radius: 3px;
+    color: green;
+}
+
+#click-btn:hover{
+    background-color: #994c99;
+    color: aliceblue;
+    transition: .3s ease;
+}
