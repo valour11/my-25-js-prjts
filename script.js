@@ -19,3 +19,5 @@ function changeColors(){
         index = 0;
     }
 }
+
+// thank You
